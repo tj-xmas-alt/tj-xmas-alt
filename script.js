@@ -279,6 +279,11 @@ var data = [{
     "value": 51,
     "question": "Xander Ettling"
   },
+  {
+  "label": "Lilian Costas",
+  "value": 52,
+  "question": "Lilian Costas"
+},
 ];
 var svg = d3.select('#chart')
   .append("svg")
