@@ -343,7 +343,7 @@ function spin(d) {
     rng = Math.floor((Math.random() * 1440) + 360);
 
   rotation = 81;
-  rotation = 440;
+  rotation = 445;
   picked = Math.round(data.length - (rotation % 360) / ps);
   picked = picked >= data.length ? (picked % data.length) : picked;
   picked = 41;
