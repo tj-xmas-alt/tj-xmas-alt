@@ -255,9 +255,9 @@ var data = [{
     "question": "Sam Liang"
   },
   {
-    "label": "Stephan Flagg",
+    "label": "Stephen Flagg",
     "value": 47,
-    "question": "Stephan Flagg"
+    "question": "Stephen Flagg"
   },
   {
     "label": "Stewart Austin",
